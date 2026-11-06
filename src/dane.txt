@@ -1,0 +1,3 @@
+To jest mój pierwszy plik.Hejka 
+test 
+test
