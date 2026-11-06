@@ -1,0 +1,5 @@
+10:00 INFO Start aplikacji
+10:01 ERROR Brak połączenia z bazą
+10:02 WARN Wolna odpowiedź katalogu
+10:03 ERROR Brak połączenia z bazą
+10:04 ERROR Brak miejsca na dysku
